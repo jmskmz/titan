@@ -1,7 +1,7 @@
 # titan - VMProtect devirtualizer
 
 I'm releasing my VMProtect devirtualizer for others to research, learn, and improve. This project started in 2018 as a hobby project and was rewritten at least 4 times. During my research, I've met with awesome 
-people, made friends, and learned a lot.
+people, made friends, and learned a lot. The tool is for educational purposes only, it works for vmprotect < 3.8 but produces less than ideal output.
 
 ## How does it work?
 
